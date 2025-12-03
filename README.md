@@ -32,3 +32,11 @@ npm run dev
 ```
 
 4. Open your browser and navigate to `http://localhost:5173`
+
+
+## Screenshots
+<img width="1166" height="1108" alt="image" src="https://github.com/user-attachments/assets/6899ef8c-70ec-4069-a00e-f4955eeec332" />
+<img width="1166" height="1108" alt="image" src="https://github.com/user-attachments/assets/355ceed6-49ba-4898-a857-5be6e5963e69" />
+<img width="1284" height="1141" alt="image" src="https://github.com/user-attachments/assets/f71715b3-625f-4253-bc91-3124becc5835" />
+
+
