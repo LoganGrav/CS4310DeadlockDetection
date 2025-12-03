@@ -31,4 +31,4 @@ npm install || npm i
 npm run dev
 ```
 
-4. Open your browser and navigate to the local URL shown in the terminal (typically `http://localhost:5173`)
+4. Open your browser and navigate to `http://localhost:5173`
