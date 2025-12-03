@@ -1,6 +1,8 @@
 ## CS 4310 Operating Systems Deadlock Detection Demo
 This project is an implementation of three examples utilizing two different deadlock detection algorithms
 
+Hosted temporarily [here](https://4310-demo.vercel.app/)
+
 ## Requirements
 - Node.js (v16 or higher)
 - npm (comes with Node.js)
